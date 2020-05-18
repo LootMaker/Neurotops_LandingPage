@@ -10,7 +10,7 @@ import { ExamplesModule } from './examples/examples.module';
 import { AppComponent } from './app.component';
 import { NavbarComponent } from './shared/navbar/navbar.component';
 import { WelcomeComponent } from './main/welcome/welcome.component';
-import { FooterComponent } from './main/footer/footer.component';
+import { FooterComponent } from './shared/footer/footer.component';
 
 @NgModule({
     declarations: [
